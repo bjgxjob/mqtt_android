@@ -1,0 +1,7 @@
+#Sun Feb 12 23:34:56 KRAT 2017
+base.0=C\:\\Users\\1\\Desktop\\AndroidMQTTDemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f490cae1b1d5ffcdd410bb95a5df1d96daee1cc2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\1\\Desktop\\AndroidMQTTDemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f874151f5216b81b931783e6fd52d620d2e9e57b\\classes.dex
+base.1=C\:\\Users\\1\\Desktop\\AndroidMQTTDemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f874151f5216b81b931783e6fd52d620d2e9e57b
+file.0=C\:\\Users\\1\\Desktop\\AndroidMQTTDemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f490cae1b1d5ffcdd410bb95a5df1d96daee1cc2\\classes.dex

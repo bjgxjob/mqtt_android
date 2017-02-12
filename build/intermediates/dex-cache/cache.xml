@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\Desktop\AndroidMQTTDemo-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="99ab193dd732b0637ae29a0c42650784d4e01690">
+        <dex dex="C:\Users\1\Desktop\AndroidMQTTDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f874151f5216b81b931783e6fd52d620d2e9e57b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\1\Desktop\AndroidMQTTDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_7ded6fcbed2773d54b354c134b10e68e62313811\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\Desktop\AndroidMQTTDemo-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6e82ac25d76fb97913eaa93329abea4837ebbe83">
+        <dex dex="C:\Users\1\Desktop\AndroidMQTTDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f490cae1b1d5ffcdd410bb95a5df1d96daee1cc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.2\11752d3f24d1a9deda4533a7ca18d8496417ceeb\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="C:\Users\1\Desktop\AndroidMQTTDemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.client.mqttv3-1.0.2_157512ed9b5f2e0bb03dcb837671e8d5f2259faa\classes.dex" />
+    </item>
+
+</items>
